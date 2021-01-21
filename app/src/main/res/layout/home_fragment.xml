@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/_64sdp"
         android:text="@string/main_placeholder_clock"
-        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textColor="#000000"
         android:textSize="@dimen/_40ssp" />
 
     <TextView
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:padding="@dimen/_4sdp"
         android:text="@string/main_placeholder_date"
-        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textColor="#000000"
         android:textSize="@dimen/_12sdp" />
 
     <androidx.recyclerview.widget.RecyclerView
